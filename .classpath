@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-schema-validator-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-schema-validator-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/json-schema-validator-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/rest-assured-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/rest-assured-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/scala-library-2.12.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-commons-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-mock-mvc-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/spring-web-test-client-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/xml-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/New User/Desktop/selenium/eclipse/Rest Assured/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
